@@ -1,5 +1,7 @@
 # Лабораторная работа №2: Конфигурация репозиториев SVN и Git
 
+<img alt="Я воин Дракона!" src="https://github.com/inertmao/itmo/blob/main/.docx/itmo1.gif">
+
 **Студент:** Шахзод Исмоилов  
 **Дата:** \today
 
